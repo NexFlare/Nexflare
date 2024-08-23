@@ -1,7 +1,7 @@
 👋 Hi there! I'm Harsh, a Master of Science in Software Engineering Systems student at Northeastern University, with a rich background in full-stack development and a passion for crafting innovative solutions that push the boundaries of technology.
 <h2>About me</h2>
 <ul>
-<li>🎓 Pursuing a Master's at Northeastern University, specializing in Object-Oriented Design, Network Structures, and Cloud Computing.</li>
+<li>🎓 Completed Master's at Northeastern University, specializing in Object-Oriented Design, Network Structures, and Cloud Computing.</li>
 <li>🌐 Skilled in a variety of technologies including React, React-Native, NextJS, Node.js, Java, and more.</li>
 <li>🛠 Experienced in building scalable web and mobile applications, enhancing user experiences, and leading projects from conception to deployment.</li>
 </ul>
